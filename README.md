@@ -1,2 +1,2 @@
-# Ashutoshsharma.github.io
+# ashutoshsharma.github.io
 personal website
